@@ -1,0 +1,28 @@
+header nav .border-bottom {
+    color: brown !important;
+}
+
+header nav li a {
+    color: white !important;
+}
+
+header nav .navbar-brand {
+    font-size: 1.7em;
+}
+
+header nav .navbar-toggler-icon {
+    filter: brightness(10) opacity(0.3);
+}
+
+header nav .navbar-toggler {
+    border: 2px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+header nav .navbar-brand {
+    color: rgb(147, 192, 226) !important;
+    font-weight: 600;
+}
+
+header nav ul li a:hover {
+    color: rgb(163, 163, 163) !important;
+}
